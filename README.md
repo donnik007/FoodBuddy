@@ -15,4 +15,6 @@ Funkcjonalności:
 
 4) Zarządzanie ulubionymi przepisami: Zalogowani użytkownicy będą mogli dodawać przepisy do ulubionych oraz usuwać je stamtąd.
 
-5) Responsywny interfejs: Aplikacja będzie responsywna, dostosowując się do różnych rozmiarów ekranów, co zapewni wygodne korzystanie zarówno na komputerach, tabletach, jak i smartfonach.
+5) Wyszukiwanie przepisów: Możliwość szybkiego wyszukiwania przepisów po nazwie dania lub składnikach.
+
+6) Responsywny interfejs: Aplikacja będzie responsywna, dostosowując się do różnych rozmiarów ekranów, co zapewni wygodne korzystanie zarówno na komputerach, tabletach, jak i smartfonach.
