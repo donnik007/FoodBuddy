@@ -8,13 +8,9 @@ Jest to praktyczna aplikacja kulinarna, która umożliwia przeglądanie, wyszuki
 Funkcjonalności:
 
 1) Przeglądanie przepisów: Użytkownik może przeglądać listę dostępnych przepisów w formie kafelków. Każdy kafelek będzie zawierał miniaturkę zdjęcia dania, nazwę dania oraz krótki opis.
+   
+2) Dodawanie nowych przepisów: Zalogowani użytkownicy będą mogli dodawać nowe przepisy do aplikacji. Formularz dodawania przepisu będzie zawierał pola na nazwę, opis, listę składników, instrukcje oraz zdjęcie dania.
 
-2) Szczegóły przepisu: Po kliknięciu na kafelek użytkownik zostanie przeniesiony do widoku szczegółowego przepisu, gdzie będzie mógł znaleźć pełny opis przepisu, listę składników oraz instrukcje przygotowania.
+3) Wyszukiwanie przepisów: Możliwość szybkiego wyszukiwania przepisów po nazwie dania lub składnikach.
 
-3) Dodawanie nowych przepisów: Zalogowani użytkownicy będą mogli dodawać nowe przepisy do aplikacji. Formularz dodawania przepisu będzie zawierał pola na nazwę, opis, listę składników, instrukcje oraz zdjęcie dania.
-
-4) Zarządzanie ulubionymi przepisami: Zalogowani użytkownicy będą mogli dodawać przepisy do ulubionych oraz usuwać je stamtąd.
-
-5) Wyszukiwanie przepisów: Możliwość szybkiego wyszukiwania przepisów po nazwie dania lub składnikach.
-
-6) Responsywny interfejs: Aplikacja będzie responsywna, dostosowując się do różnych rozmiarów ekranów, co zapewni wygodne korzystanie zarówno na komputerach, tabletach, jak i smartfonach.
+4) Responsywny interfejs: Aplikacja będzie responsywna, dostosowując się do różnych rozmiarów ekranów, co zapewni wygodne korzystanie zarówno na komputerach, tabletach, jak i smartfonach.
